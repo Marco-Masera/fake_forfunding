@@ -1,1 +1,96 @@
+{
+	"projectlist": {
+		"progetti": [
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "In Italia, accanto a chi ha bisogno",
+				"associazione": "Avsi",
+				"descrizione": "Dona e sostieni la ripartenza...",
+				"idProgetto": "xxxxxx"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "titolo1",
+				"associazione": "Avsi1",
+				"descrizione": "Dona tanti soldi",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "titolo2",
+				"associazione": "Avsi2",
+				"descrizione": "Dona un botto di soldi",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "titolo3",
+				"associazione": "Avsi3",
+				"descrizione": "Dona un ciulo di soldi",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "titolo4",
+				"associazione": "Avsi4",
+				"descrizione": "Dona un bordello di soldi grazie",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "titolo5",
+				"associazione": "Avsi5",
+				"descrizione": "Dona uno scatafascio di soldi grazie",
+				"idProgetto": "xxxxxx2"
+			}
+		],	
+		"nextPage": null
+	},
 
+
+
+
+	"nuoviProgetti": {
+		"progetti": [
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "Nuovo prog 1",
+				"associazione": "Avsi",
+				"descrizione": "Dona un rene",
+				"idProgetto": "xxxxxx"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "Nuovo prog 2",
+				"associazione": "Avsi1",
+				"descrizione": "Dona un polmone ad un fumatore",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "Nuovo prog 3",
+				"associazione": "Avsi2",
+				"descrizione": "Descrizione",
+				"idProgetto": "xxxxxx2"
+			},
+			{
+				"logo": "/src/images...",
+				"immagine": "/src/images/...",
+				"titolo": "Nuovo prog 4",
+				"associazione": "Avsi3",
+				"descrizione": "Dona 1 euro",
+				"idProgetto": "xxxxxx2"
+			}
+		],	
+		"nextPage": null
+	}
+}
